@@ -1,4 +1,4 @@
-package org.istic.osallou;
+package org.istic.osallou.tests;
 
 import static org.junit.Assert.assertTrue;
 
