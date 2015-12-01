@@ -7,12 +7,12 @@ import org.istic.osallou.Example;
 import org.junit.Test;
 
 /**
- * Unit tests of {@link Widget} class
- */
+ * Unit tests
+*/
 public class ExampleTest {
 
 	/**
-	 * Test default enable state of {@link Widget}
+	 * Test sample
 	 */
 	@Test
 	public void testAdd() {
