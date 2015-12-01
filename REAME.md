@@ -1,0 +1,1 @@
+Sample Java example using maven for building and add travis integration
