@@ -19,4 +19,10 @@ public class ExampleTest {
 		Example ex = new Example();
 		assertTrue(ex.add(1,1) == 2);
 	}
+	
+	@Test
+	public void testAdd2() {
+		Example ex = new Example();
+		assertTrue(ex.add(1,2) == 3);
+	}
 }
